@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "CHÚC MỪNG SINH NHẬT BÀ THÍM!" //Lời mở đầu cho bức thư
-const mainContentLetter = "Tuổi mới chúc bà Thím có thật nhiều sức khỏe, ngày càng thành công trong công việc, cuộc sống, tràng đầy niềm vui, hạnh phúc bên người thân, gia đình, bạn bè... Luôn nở nụ cười rạng rỡ trên môi Thím nhé! From Quá Nhi with love!" //Nội dung của bức thư
+const contentLetterSrart_actived = "CHÚC MỪNG SINH NHẬT MỸ HUYỀN!" //Lời mở đầu cho bức thư
+const mainContentLetter = "Tuổi mới chúc Mỹ Huyền luôn tràn đầy sức khỏe, luôn xinh đẹp, vui vẻ, hạnh phúc bên người thân và gia đình,...đặc biệt thành công trên con đường dự nghiệp phía trước. Chúc Mỹ Huyền tất cả nha. From anh kỹ sư năm 4 with love!" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
